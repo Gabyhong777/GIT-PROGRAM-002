@@ -16,7 +16,7 @@ public class pagoDAO_1  {
     
     // Configuración de la base de datos
     private static final String URL = "jdbc:mysql://localhost:3306/pagos_html_servlets";
-    private static final String USER = "tu_usuario";
+    private static final String USER = "Root";
     private static final String PASSWORD = "K4NAEriol89720ryok4naeDSBAA4378monday";
     
     public void insertarPago(Pago pago) {
